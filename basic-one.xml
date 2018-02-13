@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<catalog>
+  <book id="bk01">
+     <author>Jojo, Moyes</author>
+     <title>Mein Herz in zwei Welten</title>
+     <genre>Roman</genre>
+     <image>https://media.buch.de/img-adb/56949396-00-00.jpg</image>
+     <price>23,60</price>
+     <publish_date>2018-01-23</publish_date>
+     <description>Trag deine Ringelstrumpfhosen mit Stolz. Führe ein unerschrockenes Leben. Fordere dich heraus. Lebe einfach.</description>
+  </book>
+  <book id="bk02">
+     <author>Jeffrey Archer</author>
+     <title>Kain und Abel</title>
+     <genre>Roman</genre>
+     <image>https://media.buch.de/img-adb/62294983-00-00.jpg</image>
+     <price>8,99</price>
+     <publish_date>2018-01-09</publish_date>
+     <description>Nach russischer Kriegsgefangenschaft gelangt Abel Rosnovski, unehelicher Sohn eines polnischen Adligen, mit einem Auswandererschiff nach Amerika. Dort arbeitet er sich zum Hotelmanager hoch.</description>
+  </book>
+  <book id="bk03">
+     <author>Norbert Pautner</author>
+     <title>Handlettering. Die 33 schönsten Alphabete mit Rahmen, Ornamenten und Bordüren
+      </title>
+     <genre>DIY Book</genre>
+     <image>https://media.buch.de/img-adb/62389057-00-00.jpg</image>
+     <price>7,99</price>
+     <publish_date>2017-10-02</publish_date>
+     <description>Schöne Schrift kann jeder ...man muss nur wissen, wie es geht.</description>
+  </book>
+  <book id="bk04">
+     <author>Barbara Berckhan</author>
+     <title>Wahre Stärke muss nicht kämpfen</title>
+     <genre>Roman</genre>
+     <image>https://media.buch.de/img-adb/42541203-00-00.jpg</image>
+     <price>15,50</price>
+     <publish_date>2015-09-05</publish_date>
+     <description>Wer immer nur nett ist und macht, was andere von einem wollen, verrät seine eigenen Bedürfnisse und lässt sich steuern, anstatt selbst die Richtung zu bestimmen.</description>
+  </book>
+  <book id="bk05">
+     <author>Tone Finnanger</author>
+     <title>Tildas märchenhafte Welt</title>
+     <genre>DIY Book</genre>
+     <image>https://media.buch.de/img-adb/33718457-00-00.jpg</image>
+     <price>22,70</price>
+     <publish_date>2013-03-01</publish_date>
+     <description>Zauberhafte Stoffkreationen und Deko-Ideen für Tilda-Fans
+    Neues Tilda-Thema: Märchen
+    Viele neue Projekte, Geschenk- und Deko-Ideen
+    Tilda-Titel – seit Jahren Bestseller im Kreativbereich</description>
+  </book>
+  <book id="bk06">
+     <author>Jamie Oliver</author>
+     <title>Genial italienisch</title>
+     <genre>Fantasy</genre>
+     <image>https://media.buch.de/img-adb/11328498-00-00.jpg</image>
+     <price>25,60</price>
+     <publish_date>2006-01-11</publish_date>
+     <description>Jamie Oliver ist zurück von seiner kulinarischen Entdeckungsreise durch Italien. Von der Toskana bis Sizilien ist er durchs Land gefahren und hat den Menschen in die Töpfe geguckt.</description>
+  </book>
+  <book id="bk07">
+     <author>Enie van de Meiklokjes</author>
+     <title>Sweet and Easy - Enie backt: Rezepte zum Fest fürs ganze Jahr</title>
+     <genre>Cooking book</genre>
+     <image>https://media.buch.de/img-adb/45278702-00-00.jpg</image>
+     <price>13,40</price>
+     <publish_date>2016-08-11</publish_date>
+     <description>Mit der erfolgreichen sixx-TV-Sendung „Sweet u. easy: Enie backt“ backt sich Enie van de Meiklokjes bereits in die fünfte Runde. Im Begleitbuch zur Sendung „Sweet u. Easy Enie backt. </description>
+  </book>
+  <book id="bk08">
+     <author>Lyndel Miller</author>
+     <title>Naked Cakes: Simply Beautiful Handmade Creations</title>
+     <genre>Cooking book</genre>
+     <image>https://media.buch.de/img-adb/50252593-00-00.jpg</image>
+     <price>29,99</price>
+     <publish_date>2017-03-07</publish_date>
+     <description>Naked Cakes sind DER neue Trend am Backhimmel! Gewollt unperfekt und ohne Fondant und Zuckerguss lassen Naked Cakes alle Hüllen fallen und erstrahlen in schlichter Eleganz. Denn alles, was zählt, ist das Wechselspiel zwischen Füllung und Tortenböden.</description>
+  </book>
+</catalog>
+
